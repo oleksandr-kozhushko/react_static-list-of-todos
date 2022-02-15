@@ -1,0 +1,2 @@
+.App__title{text-align:center}ul{padding:10px}.todo_completed__true{font-weight:700;font-size:20px;color:#228515}.todo_completed__false{font-weight:700;font-size:20px;color:#b60d0d}.todo{padding:20px;border-radius:15px;border:5px solid #000;box-shadow:3px 5px 5px 2px rgba(90,100,105,.6196078431372549)}.todo__true{background-color:#20d3da}.todo__false{background-color:#888b89}.preparedTodos{display:grid;grid-template-columns:repeat(4,1fr);grid-gap:15px;gap:15px;list-style:none}
+/*# sourceMappingURL=main.4abdfe50.chunk.css.map */
